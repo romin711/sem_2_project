@@ -1,7 +1,10 @@
-# 🛒 BHARATIYA JANTA MART  
+# 🛒 E-Commerce Management System 
+
+BHARATIYA JANTA MART  
+
 LOGO KI APNI DUKAAN
 
-E-Commerce Management System  
+ 
 
 ---
 

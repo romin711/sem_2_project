@@ -1,7 +1,5 @@
 ```markdown
-# 🛍️ E-Commerce Application (Java)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# 🛍️ E-Commerce Console Based Platfot(Java)
 
 ## Description
 
@@ -17,7 +15,6 @@ This project implements a basic E-commerce application using Java. It encompasse
 *   [Usage](#usage)
 *   [Data Model](#data-model)
 *   [Contributing](#contributing)
-*   [License](#license)
 
 ## Project Structure
 

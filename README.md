@@ -54,7 +54,7 @@ ECommerce/
 ### ▶️ Run the Project  
 ```bash
 # Clone this repository
-git clone https://github.com/romin711/ECommerce.git
+git clone https://github.com/your-repository.git
 
 # Navigate to the project directory
 cd ECommerce

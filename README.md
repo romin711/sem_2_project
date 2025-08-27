@@ -1,70 +1,67 @@
-🛒 BHARATIYA JANTA MART
-  E-Commerce Management System
+# 🛒 BHARATIYA JANTA MART  
+### E-Commerce Management System  
 
-📌 Overview
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
-This is a Java-based E-Commerce Management System designed to simulate the core functionalities of an online shopping platform.
-It covers user management, billing, shopping cart, sellers, and database integration with a modular design.
+---
 
-📂 Project Structure
+## 📌 Overview  
+This is a **Java-based E-Commerce Management System** designed to simulate the core functionalities of an online shopping platform.  
+It covers **user management, billing, shopping cart, sellers, and database integration** with a modular design.  
+
+---
+
+## 📂 Project Structure  
 ECommerce/
-├── Main.java                # Entry point of the application
-├── DBMS/                    # Database connection and table handling
-│   ├── DBConnection.java
-│   └── Table.java
-├── DS/                      # Custom data structures
-│   ├── DoubleLinkedList.java
-│   └── Stack.java
-├── Model/                   # Core business logic
-│   ├── admin.java
-│   ├── BillingSystem.java
-│   ├── CartItem.java
-│   ├── customer.java
-│   ├── otp.java
-│   ├── seller.java
-│   ├── User.java
-│   └── validator.java
+├── Main.java # Entry point of the application
+├── DBMS/ # Database connection and table handling
+│ ├── DBConnection.java
+│ └── Table.java
+├── DS/ # Custom data structures
+│ ├── DoubleLinkedList.java
+│ └── Stack.java
+├── Model/ # Core business logic
+│ ├── admin.java
+│ ├── BillingSystem.java
+│ ├── CartItem.java
+│ ├── customer.java
+│ ├── otp.java
+│ ├── seller.java
+│ ├── User.java
+│ └── validator.java
 
-⚡ Features
+---
 
-👤 User Management: Admin, Customer, Seller
+## ⚡ Features  
+- 👤 **User Management**: Admin, Customer, Seller  
+- 🛍 **Shopping Cart System** with custom `DoubleLinkedList`  
+- 💳 **Billing System** for purchase management  
+- 🔑 **Login/Validation & OTP** handling  
+- 🗄 **Database Layer** with `DBConnection` and `Table` classes  
+- 📦 **Custom Data Structures** (`Stack`, `DoubleLinkedList`)  
 
-🛍 Shopping Cart System with custom DoubleLinkedList
+---
 
-💳 Billing System for purchase management
+## 🚀 Getting Started  
 
-🔑 Login/Validation & OTP handling
+### ✅ Prerequisites  
+- Java JDK 8+  
+- MySQL / any supported DBMS (if database features are enabled)  
 
-🗄 Database Layer with DBConnection and Table classes
-
-📦 Custom Data Structures (Stack, DoubleLinkedList)
-
-🚀 Getting Started
-Prerequisites
-
-Java JDK 8+
-
-MySQL / any supported DBMS (if database features are enabled)
-
-Run the Project
-
-Clone this repository:
-
+### ▶️ Run the Project  
+```bash
+# Clone this repository
 git clone https://github.com/romin711/ECommerce.git
 
-
-Navigate to the project directory:
-
+# Navigate to the project directory
 cd ECommerce
 
-
-Compile the project:
-
+# Compile
 javac ECommerce/Main.java
 
-
-Run the project:
-
+# Run
 java ECommerce.Main
 
 🛠 Tools & Technologies
@@ -85,6 +82,12 @@ Enhanced Product Management
 
 REST API support
 
-👨‍💻 Author
+👨‍💻 Authors
 
-Developed by ROMIN KEVADIYA , RIYA SAVALIYA , ZEEL DOBARIYA
+Developed by:
+
+ROMIN KEVADIYA
+
+RIYA SAVALIYA
+
+ZEEL DOBARIYA
